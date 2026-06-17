@@ -1,0 +1,21 @@
+Conceptos de git.
+
+
+Repositorio: Un repositorio es un almacenamiento digital centralizado que los 
+desarrolladores utilizan para gestionar y realizar cambios en el código 
+fuente de un proyecto. Permite almacenar archivos, carpetas y documentos 
+relacionados con el desarrollo de software, facilitando la colaboración y 
+el seguimiento de modificaciones en el código.
+
+
+Commit:  Un commit en GitHub es una acción fundamental en el control de 
+versiones que guarda los cambios hechos en los archivos de un repositorio. 
+Funciona como una instantánea del estado actual de tu proyecto, 
+permitiéndote rastrear modificaciones, volver a versiones anteriores y 
+colaborar de manera efectiva con otros.
+
+Push: El comando git push se utiliza para subir los cambios confirmados 
+(commits) desde un repositorio local hacia un repositorio remoto. 
+Esto permite que los cambios realizados en tu entorno local estén 
+disponibles en el repositorio remoto, facilitando la colaboración 
+con otros desarrolladores.
