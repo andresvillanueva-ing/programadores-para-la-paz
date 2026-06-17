@@ -1,0 +1,11 @@
+en este apartados explicare brevemente que realiza cada ruta.
+
+"/": Es la ruta principal de la aplicación. Al acceder a ella, 
+el servidor responde con la página o mensaje de inicio definido 
+para la raíz.
+
+"/saludo": Es una ruta específica que muestra un saludo predefinido.
+como "Hola comunidad".
+
+"/mensaje/:nombre": Es una ruta dinámica que recibe un parámetro (juan). 
+El servidor captura ese valor y genera una respuesta personalizada.

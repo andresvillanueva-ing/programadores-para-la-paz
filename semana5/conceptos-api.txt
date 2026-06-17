@@ -1,0 +1,17 @@
+Ruta /reporte (POST)
+
+¿Qué hace esta ruta?
+
+
+Escucha peticiones POST en la URL /reporte.
+
+Lee el contenido enviado por el cliente en req.body.
+
+Obtiene específicamente el valor de req.body.mensaje.
+
+
+¿Para qué podría servir en una aplicación comunitaria?
+
+Esta ruta es muy útil para recibir reportes ciudadanos. Por ejemplo:
+Un vecino podría escribir “La luminaria del parque no funciona” y la 
+aplicación enviaría ese texto a /reporte para registrarlo.
