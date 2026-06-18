@@ -1,0 +1,7 @@
+Qué ocurre cuando ejecutas node server.js. lo que se observa al inicio es en la terminal el mensaje de servidor 
+ejecutandose en puerto 3000.
+
+Qué mensaje aparece en la terminal. aparece "Servidor ejecutandose en puesto 3000".
+
+
+Qué sucede cuando visitas la ruta /estado. Me muestra los siguientes mensajes ({"estado":"Servidor funcionando","servicio":"API comunitaria"})
