@@ -1,0 +1,3 @@
+Despues de realizar la prueba con el parametro POST me dio 
+como resultado un mensaje que me mostraba los datos que 
+le envie y ademas me dio un mensaje de recibido 
