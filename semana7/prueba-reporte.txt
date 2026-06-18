@@ -1,0 +1,3 @@
+En este caso cuando realizamos una consulta de los datos de reportes 
+nos mustra un "ID" que es el numero de identificacion del reporte y ademas 
+nos muestra la informacion que esta en el reporte.
