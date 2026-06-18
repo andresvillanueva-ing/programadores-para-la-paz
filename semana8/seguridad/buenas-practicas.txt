@@ -1,0 +1,4 @@
+1. Usar contraseñas fuertes.
+2. no compartir datos personales ni credenciales.
+3. Actualizar constantemente los sistemas. 
+4. no instalar software maliciosos
